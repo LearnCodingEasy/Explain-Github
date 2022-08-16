@@ -24,3 +24,4 @@ __Text Bold
 Text Bold__
 ```
 ** Text Bold
+__This is bold
