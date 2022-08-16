@@ -1,7 +1,7 @@
 # Explain-Github
 Explain-Github
 
-# Hreader
+# Header
 # H1
 ## H2
 ### H3
