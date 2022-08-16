@@ -16,3 +16,11 @@ Explain-Github
 ##### H5
 ###### H6
 ```
+# Text Bold
+```
+** Text Bold
+Text Bold**
+__Text Bold
+Text Bold__
+```
+** Text Bold
